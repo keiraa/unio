@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:unio/Screens/HomePage.dart';
 import 'package:unio/Screens/temperature.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: LoginPage(),
+    home: HomePage(),
   ));
 }
 
